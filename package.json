@@ -1,0 +1,17 @@
+{
+  "name": "fwg20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts-init": "tsc --init",
+    "start": "tsc && node index.js",
+    "ts-watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}

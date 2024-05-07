@@ -1,0 +1,13 @@
+global
+1. install typescript di global => npm i -g typescript
+2. masuk ke directory
+3. init project => npm init
+4. buat tsconfig.json => tsc --init
+
+local project
+1. masuk ke directory
+2. init node project => npm init
+3. install typescript sbg devDependencies => npm i -D typescript
+4. buat tsconfig.json
+4.1 melalui script => npm run namaScript
+4.2 menggunakan npx => npx tsc --init
